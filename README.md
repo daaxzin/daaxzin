@@ -17,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daaxzin&show_icons=true&locale=en&theme=dracula&layout=compact" alt="daaxzin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daaxzin&show_icons=true&locale=en" alt="daaxzin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daaxzin&show_icons=true&theme=dracula&locale=en" alt="daaxzin" /></p>
