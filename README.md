@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daaxzin</h1>
-<h3 align="center">A full Stack Jr developer 📱💻🚀</h3>
 
-- 🌱 I’m currently learning *Python, Vue and Java*
-
-- 👨‍💻 All of my projects are available at [https://guilhermefernandes.netlify.app](https://guilhermefernandes.netlify.app)
-
-- 📫 How to reach me *cttguibertolin@gmail.com*
+- Portfolio: [https://guilhermefernandes.netlify.app](https://guilhermefernandes.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
